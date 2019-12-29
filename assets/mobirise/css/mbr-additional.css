@@ -908,8 +908,6 @@ pre {
   display: -webkit-flex;
   flex-direction: column;
   -webkit-flex-direction: column;
-  flex-direction: column-reverse;
-  -webkit-flex-direction: column-reverse;
 }
 .cid-rM1DoeViEM {
   padding-top: 90px;
